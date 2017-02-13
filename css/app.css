@@ -1,4 +1,35 @@
+.site-header h1{
+	text-align:center;
+	margin-top:60px;
+	margin-bottom:50rem;
+	background:rgba(0,0,0,0.8);
+	color:white;
+	padding:20px;
+	width: 35%;
+	font-size:2.5rem;
+}
+
 .menu-centered{
 	top: 0;
 	position: absolute;
+}
+
+/*About Section*/
+
+.about{
+    background:cadetblue;
+    padding:100px;
+    max-width:100%;
+}
+
+/*Work Section*/
+
+.work{
+	padding:100px;
+}
+/*Contact Section*/
+
+.contact{
+	background:cadetblue;
+    padding:100px;
 }
